@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/magenta_terracotta/block/0"
+      },
+      {
+        "model": "block/magenta_terracotta/block/1"
+      },
+      {
+        "model": "block/magenta_terracotta/block/2"
+      },
+      {
+        "model": "block/magenta_terracotta/block/3"
+      },
+      {
+        "model": "block/magenta_terracotta/block/4"
+      },
+      {
+        "model": "block/magenta_terracotta/block/5"
+      },
+      {
+        "model": "block/magenta_terracotta/block/6"
+      },
+      {
+        "model": "block/magenta_terracotta/block/7"
+      },
+      {
+        "model": "block/magenta_terracotta/block/8"
+      },
+      {
+        "model": "block/magenta_terracotta/block/9"
+      },
+      {
+        "model": "block/magenta_terracotta/block/10"
+      },
+      {
+        "model": "block/magenta_terracotta/block/11"
+      },
+      {
+        "model": "block/magenta_terracotta/block/12"
+      },
+      {
+        "model": "block/magenta_terracotta/block/13"
+      },
+      {
+        "model": "block/magenta_terracotta/block/14"
+      },
+      {
+        "model": "block/magenta_terracotta/block/15"
+      }
+    ]
+  }
+}

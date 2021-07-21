@@ -1,0 +1,154 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "block/crimson_planks/slab/0"
+      },
+      {
+        "model": "block/crimson_planks/slab/1"
+      },
+      {
+        "model": "block/crimson_planks/slab/2"
+      },
+      {
+        "model": "block/crimson_planks/slab/3"
+      },
+      {
+        "model": "block/crimson_planks/slab/4"
+      },
+      {
+        "model": "block/crimson_planks/slab/5"
+      },
+      {
+        "model": "block/crimson_planks/slab/6"
+      },
+      {
+        "model": "block/crimson_planks/slab/7"
+      },
+      {
+        "model": "block/crimson_planks/slab/8"
+      },
+      {
+        "model": "block/crimson_planks/slab/9"
+      },
+      {
+        "model": "block/crimson_planks/slab/10"
+      },
+      {
+        "model": "block/crimson_planks/slab/11"
+      },
+      {
+        "model": "block/crimson_planks/slab/12"
+      },
+      {
+        "model": "block/crimson_planks/slab/13"
+      },
+      {
+        "model": "block/crimson_planks/slab/14"
+      },
+      {
+        "model": "block/crimson_planks/slab/15"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "block/crimson_planks/slab_top/0"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/1"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/2"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/3"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/4"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/5"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/6"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/7"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/8"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/9"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/10"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/11"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/12"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/13"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/14"
+      },
+      {
+        "model": "block/crimson_planks/slab_top/15"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "block/crimson_planks/block/0"
+      },
+      {
+        "model": "block/crimson_planks/block/1"
+      },
+      {
+        "model": "block/crimson_planks/block/2"
+      },
+      {
+        "model": "block/crimson_planks/block/3"
+      },
+      {
+        "model": "block/crimson_planks/block/4"
+      },
+      {
+        "model": "block/crimson_planks/block/5"
+      },
+      {
+        "model": "block/crimson_planks/block/6"
+      },
+      {
+        "model": "block/crimson_planks/block/7"
+      },
+      {
+        "model": "block/crimson_planks/block/8"
+      },
+      {
+        "model": "block/crimson_planks/block/9"
+      },
+      {
+        "model": "block/crimson_planks/block/10"
+      },
+      {
+        "model": "block/crimson_planks/block/11"
+      },
+      {
+        "model": "block/crimson_planks/block/12"
+      },
+      {
+        "model": "block/crimson_planks/block/13"
+      },
+      {
+        "model": "block/crimson_planks/block/14"
+      },
+      {
+        "model": "block/crimson_planks/block/15"
+      }
+    ]
+  }
+}

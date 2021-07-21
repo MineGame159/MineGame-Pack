@@ -1,0 +1,154 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "block/diorite/slab/0"
+      },
+      {
+        "model": "block/diorite/slab/1"
+      },
+      {
+        "model": "block/diorite/slab/2"
+      },
+      {
+        "model": "block/diorite/slab/3"
+      },
+      {
+        "model": "block/diorite/slab/4"
+      },
+      {
+        "model": "block/diorite/slab/5"
+      },
+      {
+        "model": "block/diorite/slab/6"
+      },
+      {
+        "model": "block/diorite/slab/7"
+      },
+      {
+        "model": "block/diorite/slab/8"
+      },
+      {
+        "model": "block/diorite/slab/9"
+      },
+      {
+        "model": "block/diorite/slab/10"
+      },
+      {
+        "model": "block/diorite/slab/11"
+      },
+      {
+        "model": "block/diorite/slab/12"
+      },
+      {
+        "model": "block/diorite/slab/13"
+      },
+      {
+        "model": "block/diorite/slab/14"
+      },
+      {
+        "model": "block/diorite/slab/15"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "block/diorite/slab_top/0"
+      },
+      {
+        "model": "block/diorite/slab_top/1"
+      },
+      {
+        "model": "block/diorite/slab_top/2"
+      },
+      {
+        "model": "block/diorite/slab_top/3"
+      },
+      {
+        "model": "block/diorite/slab_top/4"
+      },
+      {
+        "model": "block/diorite/slab_top/5"
+      },
+      {
+        "model": "block/diorite/slab_top/6"
+      },
+      {
+        "model": "block/diorite/slab_top/7"
+      },
+      {
+        "model": "block/diorite/slab_top/8"
+      },
+      {
+        "model": "block/diorite/slab_top/9"
+      },
+      {
+        "model": "block/diorite/slab_top/10"
+      },
+      {
+        "model": "block/diorite/slab_top/11"
+      },
+      {
+        "model": "block/diorite/slab_top/12"
+      },
+      {
+        "model": "block/diorite/slab_top/13"
+      },
+      {
+        "model": "block/diorite/slab_top/14"
+      },
+      {
+        "model": "block/diorite/slab_top/15"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "block/diorite/block/0"
+      },
+      {
+        "model": "block/diorite/block/1"
+      },
+      {
+        "model": "block/diorite/block/2"
+      },
+      {
+        "model": "block/diorite/block/3"
+      },
+      {
+        "model": "block/diorite/block/4"
+      },
+      {
+        "model": "block/diorite/block/5"
+      },
+      {
+        "model": "block/diorite/block/6"
+      },
+      {
+        "model": "block/diorite/block/7"
+      },
+      {
+        "model": "block/diorite/block/8"
+      },
+      {
+        "model": "block/diorite/block/9"
+      },
+      {
+        "model": "block/diorite/block/10"
+      },
+      {
+        "model": "block/diorite/block/11"
+      },
+      {
+        "model": "block/diorite/block/12"
+      },
+      {
+        "model": "block/diorite/block/13"
+      },
+      {
+        "model": "block/diorite/block/14"
+      },
+      {
+        "model": "block/diorite/block/15"
+      }
+    ]
+  }
+}

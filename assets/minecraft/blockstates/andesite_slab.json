@@ -1,0 +1,154 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "block/andesite/slab/0"
+      },
+      {
+        "model": "block/andesite/slab/1"
+      },
+      {
+        "model": "block/andesite/slab/2"
+      },
+      {
+        "model": "block/andesite/slab/3"
+      },
+      {
+        "model": "block/andesite/slab/4"
+      },
+      {
+        "model": "block/andesite/slab/5"
+      },
+      {
+        "model": "block/andesite/slab/6"
+      },
+      {
+        "model": "block/andesite/slab/7"
+      },
+      {
+        "model": "block/andesite/slab/8"
+      },
+      {
+        "model": "block/andesite/slab/9"
+      },
+      {
+        "model": "block/andesite/slab/10"
+      },
+      {
+        "model": "block/andesite/slab/11"
+      },
+      {
+        "model": "block/andesite/slab/12"
+      },
+      {
+        "model": "block/andesite/slab/13"
+      },
+      {
+        "model": "block/andesite/slab/14"
+      },
+      {
+        "model": "block/andesite/slab/15"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "block/andesite/slab_top/0"
+      },
+      {
+        "model": "block/andesite/slab_top/1"
+      },
+      {
+        "model": "block/andesite/slab_top/2"
+      },
+      {
+        "model": "block/andesite/slab_top/3"
+      },
+      {
+        "model": "block/andesite/slab_top/4"
+      },
+      {
+        "model": "block/andesite/slab_top/5"
+      },
+      {
+        "model": "block/andesite/slab_top/6"
+      },
+      {
+        "model": "block/andesite/slab_top/7"
+      },
+      {
+        "model": "block/andesite/slab_top/8"
+      },
+      {
+        "model": "block/andesite/slab_top/9"
+      },
+      {
+        "model": "block/andesite/slab_top/10"
+      },
+      {
+        "model": "block/andesite/slab_top/11"
+      },
+      {
+        "model": "block/andesite/slab_top/12"
+      },
+      {
+        "model": "block/andesite/slab_top/13"
+      },
+      {
+        "model": "block/andesite/slab_top/14"
+      },
+      {
+        "model": "block/andesite/slab_top/15"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "block/andesite/block/0"
+      },
+      {
+        "model": "block/andesite/block/1"
+      },
+      {
+        "model": "block/andesite/block/2"
+      },
+      {
+        "model": "block/andesite/block/3"
+      },
+      {
+        "model": "block/andesite/block/4"
+      },
+      {
+        "model": "block/andesite/block/5"
+      },
+      {
+        "model": "block/andesite/block/6"
+      },
+      {
+        "model": "block/andesite/block/7"
+      },
+      {
+        "model": "block/andesite/block/8"
+      },
+      {
+        "model": "block/andesite/block/9"
+      },
+      {
+        "model": "block/andesite/block/10"
+      },
+      {
+        "model": "block/andesite/block/11"
+      },
+      {
+        "model": "block/andesite/block/12"
+      },
+      {
+        "model": "block/andesite/block/13"
+      },
+      {
+        "model": "block/andesite/block/14"
+      },
+      {
+        "model": "block/andesite/block/15"
+      }
+    ]
+  }
+}

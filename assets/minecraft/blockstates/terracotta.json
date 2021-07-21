@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/terracotta/block/0"
+      },
+      {
+        "model": "block/terracotta/block/1"
+      },
+      {
+        "model": "block/terracotta/block/2"
+      },
+      {
+        "model": "block/terracotta/block/3"
+      },
+      {
+        "model": "block/terracotta/block/4"
+      },
+      {
+        "model": "block/terracotta/block/5"
+      },
+      {
+        "model": "block/terracotta/block/6"
+      },
+      {
+        "model": "block/terracotta/block/7"
+      },
+      {
+        "model": "block/terracotta/block/8"
+      },
+      {
+        "model": "block/terracotta/block/9"
+      },
+      {
+        "model": "block/terracotta/block/10"
+      },
+      {
+        "model": "block/terracotta/block/11"
+      },
+      {
+        "model": "block/terracotta/block/12"
+      },
+      {
+        "model": "block/terracotta/block/13"
+      },
+      {
+        "model": "block/terracotta/block/14"
+      },
+      {
+        "model": "block/terracotta/block/15"
+      }
+    ]
+  }
+}

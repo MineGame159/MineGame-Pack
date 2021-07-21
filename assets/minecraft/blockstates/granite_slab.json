@@ -1,0 +1,154 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "block/granite/slab/0"
+      },
+      {
+        "model": "block/granite/slab/1"
+      },
+      {
+        "model": "block/granite/slab/2"
+      },
+      {
+        "model": "block/granite/slab/3"
+      },
+      {
+        "model": "block/granite/slab/4"
+      },
+      {
+        "model": "block/granite/slab/5"
+      },
+      {
+        "model": "block/granite/slab/6"
+      },
+      {
+        "model": "block/granite/slab/7"
+      },
+      {
+        "model": "block/granite/slab/8"
+      },
+      {
+        "model": "block/granite/slab/9"
+      },
+      {
+        "model": "block/granite/slab/10"
+      },
+      {
+        "model": "block/granite/slab/11"
+      },
+      {
+        "model": "block/granite/slab/12"
+      },
+      {
+        "model": "block/granite/slab/13"
+      },
+      {
+        "model": "block/granite/slab/14"
+      },
+      {
+        "model": "block/granite/slab/15"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "block/granite/slab_top/0"
+      },
+      {
+        "model": "block/granite/slab_top/1"
+      },
+      {
+        "model": "block/granite/slab_top/2"
+      },
+      {
+        "model": "block/granite/slab_top/3"
+      },
+      {
+        "model": "block/granite/slab_top/4"
+      },
+      {
+        "model": "block/granite/slab_top/5"
+      },
+      {
+        "model": "block/granite/slab_top/6"
+      },
+      {
+        "model": "block/granite/slab_top/7"
+      },
+      {
+        "model": "block/granite/slab_top/8"
+      },
+      {
+        "model": "block/granite/slab_top/9"
+      },
+      {
+        "model": "block/granite/slab_top/10"
+      },
+      {
+        "model": "block/granite/slab_top/11"
+      },
+      {
+        "model": "block/granite/slab_top/12"
+      },
+      {
+        "model": "block/granite/slab_top/13"
+      },
+      {
+        "model": "block/granite/slab_top/14"
+      },
+      {
+        "model": "block/granite/slab_top/15"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "block/granite/block/0"
+      },
+      {
+        "model": "block/granite/block/1"
+      },
+      {
+        "model": "block/granite/block/2"
+      },
+      {
+        "model": "block/granite/block/3"
+      },
+      {
+        "model": "block/granite/block/4"
+      },
+      {
+        "model": "block/granite/block/5"
+      },
+      {
+        "model": "block/granite/block/6"
+      },
+      {
+        "model": "block/granite/block/7"
+      },
+      {
+        "model": "block/granite/block/8"
+      },
+      {
+        "model": "block/granite/block/9"
+      },
+      {
+        "model": "block/granite/block/10"
+      },
+      {
+        "model": "block/granite/block/11"
+      },
+      {
+        "model": "block/granite/block/12"
+      },
+      {
+        "model": "block/granite/block/13"
+      },
+      {
+        "model": "block/granite/block/14"
+      },
+      {
+        "model": "block/granite/block/15"
+      }
+    ]
+  }
+}

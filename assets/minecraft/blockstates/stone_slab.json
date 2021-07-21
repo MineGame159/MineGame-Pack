@@ -1,0 +1,154 @@
+{
+  "variants": {
+    "type=bottom": [
+      {
+        "model": "block/stone/slab/0"
+      },
+      {
+        "model": "block/stone/slab/1"
+      },
+      {
+        "model": "block/stone/slab/2"
+      },
+      {
+        "model": "block/stone/slab/3"
+      },
+      {
+        "model": "block/stone/slab/4"
+      },
+      {
+        "model": "block/stone/slab/5"
+      },
+      {
+        "model": "block/stone/slab/6"
+      },
+      {
+        "model": "block/stone/slab/7"
+      },
+      {
+        "model": "block/stone/slab/8"
+      },
+      {
+        "model": "block/stone/slab/9"
+      },
+      {
+        "model": "block/stone/slab/10"
+      },
+      {
+        "model": "block/stone/slab/11"
+      },
+      {
+        "model": "block/stone/slab/12"
+      },
+      {
+        "model": "block/stone/slab/13"
+      },
+      {
+        "model": "block/stone/slab/14"
+      },
+      {
+        "model": "block/stone/slab/15"
+      }
+    ],
+    "type=top": [
+      {
+        "model": "block/stone/slab_top/0"
+      },
+      {
+        "model": "block/stone/slab_top/1"
+      },
+      {
+        "model": "block/stone/slab_top/2"
+      },
+      {
+        "model": "block/stone/slab_top/3"
+      },
+      {
+        "model": "block/stone/slab_top/4"
+      },
+      {
+        "model": "block/stone/slab_top/5"
+      },
+      {
+        "model": "block/stone/slab_top/6"
+      },
+      {
+        "model": "block/stone/slab_top/7"
+      },
+      {
+        "model": "block/stone/slab_top/8"
+      },
+      {
+        "model": "block/stone/slab_top/9"
+      },
+      {
+        "model": "block/stone/slab_top/10"
+      },
+      {
+        "model": "block/stone/slab_top/11"
+      },
+      {
+        "model": "block/stone/slab_top/12"
+      },
+      {
+        "model": "block/stone/slab_top/13"
+      },
+      {
+        "model": "block/stone/slab_top/14"
+      },
+      {
+        "model": "block/stone/slab_top/15"
+      }
+    ],
+    "type=double": [
+      {
+        "model": "block/stone/block/0"
+      },
+      {
+        "model": "block/stone/block/1"
+      },
+      {
+        "model": "block/stone/block/2"
+      },
+      {
+        "model": "block/stone/block/3"
+      },
+      {
+        "model": "block/stone/block/4"
+      },
+      {
+        "model": "block/stone/block/5"
+      },
+      {
+        "model": "block/stone/block/6"
+      },
+      {
+        "model": "block/stone/block/7"
+      },
+      {
+        "model": "block/stone/block/8"
+      },
+      {
+        "model": "block/stone/block/9"
+      },
+      {
+        "model": "block/stone/block/10"
+      },
+      {
+        "model": "block/stone/block/11"
+      },
+      {
+        "model": "block/stone/block/12"
+      },
+      {
+        "model": "block/stone/block/13"
+      },
+      {
+        "model": "block/stone/block/14"
+      },
+      {
+        "model": "block/stone/block/15"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/andesite/block/0"
+      },
+      {
+        "model": "block/andesite/block/1"
+      },
+      {
+        "model": "block/andesite/block/2"
+      },
+      {
+        "model": "block/andesite/block/3"
+      },
+      {
+        "model": "block/andesite/block/4"
+      },
+      {
+        "model": "block/andesite/block/5"
+      },
+      {
+        "model": "block/andesite/block/6"
+      },
+      {
+        "model": "block/andesite/block/7"
+      },
+      {
+        "model": "block/andesite/block/8"
+      },
+      {
+        "model": "block/andesite/block/9"
+      },
+      {
+        "model": "block/andesite/block/10"
+      },
+      {
+        "model": "block/andesite/block/11"
+      },
+      {
+        "model": "block/andesite/block/12"
+      },
+      {
+        "model": "block/andesite/block/13"
+      },
+      {
+        "model": "block/andesite/block/14"
+      },
+      {
+        "model": "block/andesite/block/15"
+      }
+    ]
+  }
+}
