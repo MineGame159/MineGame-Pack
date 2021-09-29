@@ -1,0 +1,13 @@
+{
+    "map": [
+        {
+            "predicate": {
+                "materialPredicate": {
+                    "renderLayerName": "glass"
+                }
+            },
+            "material": "canvas:emissive_transform"
+        }
+    ],
+    "defaultMaterial": "canvas:emissive_transform"
+}
